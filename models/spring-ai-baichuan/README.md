@@ -1,0 +1,1 @@
+[Baichuan Chat Documentation](https://docs.spring.io/spring-ai/reference/api/chat/baichuan-chat.html)

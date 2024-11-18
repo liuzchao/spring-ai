@@ -367,6 +367,15 @@
 			<optional>true</optional>
 		</dependency>
 
+		<!-- Baichuan AI  -->
+		<dependency>
+			<groupId>org.springframework.ai</groupId>
+			<artifactId>spring-ai-baichuan</artifactId>
+			<version>${project.parent.version}</version>
+			<optional>true</optional>
+		</dependency>
+
+
 		<!-- Typesense vector store -->
 		<dependency>
 			<groupId>org.springframework.ai</groupId>
